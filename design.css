@@ -1,0 +1,43 @@
+body{
+    background-color: black;
+}
+
+h2{
+    color:aqua;
+    font-family: "press Start 2p";
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h3{
+    color:white;
+    margin-left: 350px;
+    margin-right: auto;
+}
+h6{
+    color: white;
+    text-align: center;
+    margin-left: 100px;
+    margin-right: auto;
+    font-size: larger;
+}
+
+.textbox{
+    color: white;
+    text-align:center;
+    margin-left: 100px;
+    margin-right: auto;
+    font-size: larger;
+    
+}
+
+.enter{
+    color: white;
+    text-align:center;
+    margin-left: 100px;
+    margin-right: auto;
+    font-size: larger;
+}
+
+/*D☼*/
